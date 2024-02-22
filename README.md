@@ -22,13 +22,13 @@ pip install -r requirements.txt
 ```
 
 ## 测试
-从[FoxCloud](http://cloud.foxyear.cn/s/jMtW)下载预训练模型,密码'foxyear'，并将其放置在 `checkpoints` 文件夹中。然后运行以下命令：
+从[FoxCloud]([http://cloud.foxyear.cn/s/jMtW](https://foxyear.oss-cn-shenzhen.aliyuncs.com/web/FoxAvatar_Model_V2.1.zip)下载预训练模型，并将其放置在 `checkpoints` 文件夹中。然后运行以下命令：
 ```
 python inference.py
 ```
 
 ## 运行
-从[FoxCloud](http://cloud.foxyear.cn/s/jMtW)下载预训练模型,密码'foxyear'，并将其放置在 `checkpoints` 文件夹中。然后运行以下命令：
+从[FoxCloud]([http://cloud.foxyear.cn/s/jMtW](https://foxyear.oss-cn-shenzhen.aliyuncs.com/web/FoxAvatar_Model_V2.1.zip)下载预训练模型，并将其放置在 `checkpoints` 文件夹中。然后运行以下命令：
 ```
 python inference.py  --input ./video/videoxx.mp4 --audio ./audio/testxx.wav
 ```
