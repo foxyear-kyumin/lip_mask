@@ -42,11 +42,11 @@ python inference.py  --input ./video/videoxx.mp4 --audio ./audio/testxx.wav
 ## 联系
 深度开发合作交流，联系加微信：
 
-<img src='./2.jpg' width=100>
+<img src='./2.jpg' width=200>
 
 交流群及资料教程：
 
-<img src='./1.jpg' width=100>
+<img src='./1.jpg' width=200>
 
 
 ## 引用和点赞
