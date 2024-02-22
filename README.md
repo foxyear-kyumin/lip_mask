@@ -2,8 +2,6 @@
 
 CVPR2023论文“**I**dentity-**P**reserving Talking Face Generation with **L**andmark and **A**ppearance **P**riors” 的PyTorch官方方案的升级。
 
-<img src='./CVPR2023framework.png' width=900>
-
 [[论文]](https://arxiv.org/abs/2305.08293) [[演示视频]](https://youtu.be/wtb689iTJC8)
 
 ## 如何实现效果的提升？
