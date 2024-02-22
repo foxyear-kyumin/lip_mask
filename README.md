@@ -46,7 +46,7 @@ python inference.py  --input ./video/videoxx.mp4 --audio ./audio/testxx.wav
 
 交流群及资料教程：
 
-<img src='./1.jgp' >
+<img src='./1.jpg' >
 
 
 ## 引用和点赞
